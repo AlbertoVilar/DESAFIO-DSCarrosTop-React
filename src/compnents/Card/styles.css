@@ -8,15 +8,9 @@
     padding: 15px;   
 }
 
-.dsc-card p {
-    color: var( --dsc-color-ft-secundary); 
-   font-size: 20px;
-   font-weight: 700; 
-   text-align: center;
-}
-
-.dsc-main-card  {
-    
+.dsc-main-card h2 {
+    color: var( --dsc-color-ft-secundary);
+    font-size: 32px;
 }
 
 .dsc-card  {
@@ -25,6 +19,13 @@
     padding: 15px;
     margin-top: 15px;
        
+}
+
+.dsc-card p {
+    color: var( --dsc-color-ft-secundary); 
+   font-size: 20px;
+   font-weight: 700; 
+   text-align: center;
 }
 
 .dsc-card img {
