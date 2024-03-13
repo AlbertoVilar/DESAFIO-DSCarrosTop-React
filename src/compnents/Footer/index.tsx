@@ -4,7 +4,7 @@ export default function Footer() {
     
     return(
         <footer>
-            <div className='dsc-footer'>
+            <div className='dsc-interface-model dsc-footer'>
                 <p>
                     <i>@dscarrostop</i>
                 </p>

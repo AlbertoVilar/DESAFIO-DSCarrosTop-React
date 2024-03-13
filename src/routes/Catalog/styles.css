@@ -1,7 +1,5 @@
 
-.dsc-main {
-    background-color: aquamarine;
-}
+
 
 @media (max-width: 576px) {
     main {
@@ -9,6 +7,7 @@
     } 
 
     img {
-        max-width: 256px;
+        max-width: 260px;
+        height: 164px;
     }
 }
