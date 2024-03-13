@@ -1,0 +1,14 @@
+
+.dsc-main {
+    background-color: aquamarine;
+}
+
+@media (max-width: 576px) {
+    main {
+        padding: 0 20px;
+    } 
+
+    img {
+        max-width: 256px;
+    }
+}

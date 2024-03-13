@@ -1,0 +1,34 @@
+
+.dsc-main-card {
+    background-color: antiquewhite;
+    width: 100%;
+    max-width: 746px;
+    margin: 0 auto;
+   text-align: center;
+    padding: 15px;   
+}
+
+.dsc-card p {
+    color: var( --dsc-color-ft-secundary); 
+   font-size: 20px;
+   font-weight: 700; 
+   text-align: center;
+}
+
+.dsc-main-card  {
+    
+}
+
+.dsc-card  {
+    border: 1px solid var(--dsc-color-bg-tertiary);
+    border-radius: 10px; 
+    padding: 15px;
+    margin-top: 15px;
+       
+}
+
+.dsc-card img {
+   width: 380px;   
+   height: 281px;  
+   background-color: azure;  
+}
