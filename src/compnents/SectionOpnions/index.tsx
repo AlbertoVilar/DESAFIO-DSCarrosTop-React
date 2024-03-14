@@ -3,7 +3,7 @@ import './styles.css'
 export default function SectionOpnions() {
  
     return (
-      <div className='dsc-sectionOpnions'>
+      <div className='dsc-sectionOpnions dsc-interface-model'>
             
             <h3>O que estão dizendo</h3>
             

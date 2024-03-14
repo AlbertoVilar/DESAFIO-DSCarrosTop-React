@@ -1,4 +1,5 @@
 
+/* SECTION OPNIONS */
 
 .dsc-sectionOpnions h3 {
     font-size: 32px;
@@ -8,18 +9,15 @@
 }
 
 .dsc-mensages {
-    width: 100%;
-    max-width: 960px;
-    height: 74px;
+    padding:30px 15px;    
     border: 1px solid var(--dsc-color-bg-tertiary);
-    padding: 20px 10px; 
     border-radius: 10px;
     background-color: var(--dsc-color-bg-primary);
     margin: 0 auto;
     margin-bottom: 20px;
 }
 
-.dsc-mensages {
+.dsc-mensages p {
     color: var(--dsc-color-ft-tertiary);
     font-size: 16px;
 }

@@ -8,16 +8,16 @@ export default function Catalog() {
 
     return(
         <>
-            <Header />
-        <main className='dsc-main'>
-            <Card />
-        </main>
+                <Header />
+            <main>
+                <Card />
+            </main>
 
-        <section className='dsc-interface-model'>
+            <section>
                 <SectionOpnions />
-        </section>
+            </section>
 
-        <footer className=''>
+            <footer>
                 <Footer />
             </footer>   
         </>       
